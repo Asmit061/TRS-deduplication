@@ -1,6 +1,6 @@
 # TRS-deduplication
-## We have used Core end to end Traffic redundancy elimination techinque to save bandwith and optimize the cost of deployment in cloud
-## for heavy data usage website.
+#### We have used Core end to end Traffic redundancy elimination techinque to save bandwith and optimize the cost of deployment in cloud
+#### for heavy data usage website.
 ## Go through the project report for details of the project
 
 
